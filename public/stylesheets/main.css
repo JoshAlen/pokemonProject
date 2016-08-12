@@ -74,6 +74,9 @@ background-color: #d49098;
 .Ice, .ice{
 background-color: #90d4cc;
 }
+.Fairy, .fairy{
+    background-color: #d67cd5;
+}
 .element {
 border-radius: 15px 15px;
 opacity: 0.7;
